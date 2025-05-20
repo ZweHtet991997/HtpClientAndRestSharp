@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ConsumeRestApi
+build_property.ProjectDir = C:\MyProjects\HttpClientAndRestSharp\HtpClientAndRestSharp\ConsumeRestApi\

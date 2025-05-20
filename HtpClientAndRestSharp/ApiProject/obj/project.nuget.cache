@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qS47uq5pjl9Jk+y5oAD5j0TASlEQ7SY104IF/EM5h9H6L3ehy2t5Gx5WS9mnk1AX2L02BL5q7hkP1uCJwnmugg==",
+  "success": true,
+  "projectFilePath": "C:\\MyProjects\\HttpClientAndRestSharp\\HtpClientAndRestSharp\\ApiProject\\ApiProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zwewaiyanhtet\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
